@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "eeprom_config.h": "c",
+        "timer1_interface.h": "c",
+        "eeprom_interface.h": "c",
+        "uart_interface.h": "c",
+        "lcd_interface.h": "c",
+        "hal_lcd.h": "c",
+        "twi_interface.h": "c",
+        "mcal_eeprom.h": "c",
+        "spi_interface.h": "c",
+        "i2c_interface.h": "c"
+    }
+}

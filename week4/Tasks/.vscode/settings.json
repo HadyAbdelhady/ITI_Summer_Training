@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "mcal_gpio_avr.h": "c",
+        "hal_lcd.h": "c",
+        "timer.h": "c",
+        "hal_servo.h": "c"
+    }
+}
